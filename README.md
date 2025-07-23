@@ -23,6 +23,4 @@ Welcome to the practice repo. Follow the steps below to contribute:
 - Vishesh class work
 - Punit Verma 
 - Ravneet Godara
-
-
-
+- Ramandeep
